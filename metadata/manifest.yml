@@ -8,13 +8,13 @@ Version: '5.14'
 Versions:
 - '5.14'
 Cartridge-Version: 0.0.2
-Cartridge-Vendor: mfojtik
+Cartridge-Vendor: netpresence.eu
 License: GPL
-Vendor: mfojtik
+Vendor: Corrado Mirra at netpresence.eu
 Categories:
 - service
 - embedded
-Website: http://collectd.org
+Website: http://contractors.netpresence.eu
 Provides:
 - monit-5.14
 - monit
